@@ -34,6 +34,7 @@ I just test Cursor AI and this is the result.
 
 # Security
 
-> [!WARNING] Don't use this app on public networks!
+> [!WARNING] 
+> Don't use this app on public networks!
 
 This app isn't secure. Use it only on your local network!
