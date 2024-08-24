@@ -1,12 +1,14 @@
 # PC Controler
 
+![alt text](/_static/image.png)
+
 A simple app to control your PC with your phone.
 Based on Nuxt 3 and Nut.js
 Sometimes I just want to have a remote control for my PC.
 
 # How to use?
 
-1. Clone the repo
+1. Clone the repo `git clone https://github.com/sdju/pc-controler`
 2. Run `pnpm install`
 3. Run `npm run dev`
 4. Open your phone browser and scan the QR code or manually write the URL
